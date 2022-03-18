@@ -30,16 +30,16 @@ def getTransform(label):
     transformInfo = 'placeholder'
     
     if (label == 'cardboard'):
-        transformInfo = 'Cool cardboad stuff'
+        transformInfo = 'Boxes, packaging, newspaper, bags, writing paper'
     elif (label == 'glass'):
-        transformInfo = 'Cool glass stuff'
+        transformInfo = 'Beads, glassphalt, tiles, countertops, fiberglass insulation'
     elif (label == 'metal'):
-        transformInfo = 'Cool metal stuff'
+        transformInfo = 'Cars, train tracks, airplanes, metal furnishing, artwork'
     elif (label == 'paper'):
-        transformInfo = 'Cool paper stuff'
+        transformInfo = 'Insulation, lamp shades, toilet paper, greeting cards, newspaper'
     elif (label == 'plastic'):
-        transformInfo = 'Cool plastic stuff'
+        transformInfo = 'Phone cases, toys, backpacks, yoga mat, surfboard, swimwear'
     elif (label == 'trash'):
-        transformInfo = 'Nothing, this is trash'    
+        transformInfo = 'This is just trash'    
 
     return transformInfo
