@@ -25,7 +25,8 @@ And then run the application in the same terminal using:
 python -m flask run 
 ```
 
-If you are getting an internal server error when importing the trash image try this on Windows: 
+If you are getting an internal server error when importing the trash image try this: 
 ```
 pip install --upgrade tensorflow keras numpy pandas sklearn pillow
 ```
+Afterwards re-open the project and do the steps again provided in this guide for Windows
