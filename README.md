@@ -27,7 +27,7 @@ python -m flask run
 ```
 
 #### Could not import PIL-image error message
-If you are getting an internal server error when importing the trash image try this: 
+If you are getting an internal server error when submitting the image in the front end application try this: 
 ```
 pip install --upgrade tensorflow keras numpy pandas sklearn pillow
 ```
