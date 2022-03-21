@@ -25,6 +25,7 @@ And then run the application in the same terminal using:
 python -m flask run 
 ```
 
+## Could not import PIL-image error message
 If you are getting an internal server error when importing the trash image try this: 
 ```
 pip install --upgrade tensorflow keras numpy pandas sklearn pillow
