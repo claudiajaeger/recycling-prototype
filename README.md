@@ -2,6 +2,7 @@
 A recycling prototype using ML 💻
 
 ## Dependencies
+* Visual Studio Code (recommended)
 * Python (make sure it's a version that TensorFlow supports)
 * Flask
 * TensorFlow
