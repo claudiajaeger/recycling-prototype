@@ -31,4 +31,4 @@ If you are getting an internal server error when importing the trash image try t
 ```
 pip install --upgrade tensorflow keras numpy pandas sklearn pillow
 ```
-Afterwards re-open the project and do the steps again provided in this guide for Windows
+Afterwards re-open the project and do the steps again provided in the guide for Windows
