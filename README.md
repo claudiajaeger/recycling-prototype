@@ -1,5 +1,16 @@
 # Recycling Prototype
-A recycling prototype using ML 💻
+This repo contains the code used in the waste application in our thesis project Utilizing Machine Learning to Help People Sort Recyclable Items. 
+
+## Clone Repo
+Go to the directory where you want to clone the repo, for example:
+```
+cd C:\Users\username\OneDrive\Documents\Project
+```
+Clone the repo in the directory
+```
+git clone https://code.pot.cybercom.com/scm/tw/claudiaselina_thesis2022.git
+cd claudiaselina_thesis2022
+```
 
 ## Dependencies
 * Visual Studio Code (recommended)
