@@ -17,7 +17,7 @@ def index():
     return render_template('index.html')
 
 @app.route("/", methods = ['POST'])
-# Our function for pushing the image to the classifier model
+# Function for pushing the image to the classifier model
 def submit_image():
      if request.method == 'POST':
           if 'file' not in request.files:
