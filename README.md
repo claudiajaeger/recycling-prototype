@@ -13,10 +13,10 @@ cd claudiaselina_thesis2022
 ```
 
 ## Dependencies
-* Visual Studio Code (recommended)
-* Python (make sure it's a version that TensorFlow supports)
-* Flask
+* [Visual Studio Code](https://code.visualstudio.com/) (recommended)
+* Python
 * TensorFlow
+* Flask
 * Numpy
 * Pillow
 
